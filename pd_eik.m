@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This code solves the Eikonal equation
-% |Du(x)| = f(x) in Omega anf u = g on the boundary
+% |Du(x)| = f(x) in Omega and u = g on the boundary
 % using the variational formulation proposed in 
 % H.Ennaji, N.Igbida and V.T.Nguyen, Augmented Lagrangian methods for
 % degenerate Hamilton-Jacobi equations, Calc. Var. Partial Differential
